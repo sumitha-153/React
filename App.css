@@ -1,0 +1,13 @@
+#btn{
+  padding: 10px;
+  background-color: aqua;
+  border: 0.5px groove black;
+  border-radius: 5px;
+}
+#greet{
+  border: 0.5px groove black;
+  width: max-content;
+  height: auto;
+  border-radius: 15px;
+  padding: 10px;
+}
